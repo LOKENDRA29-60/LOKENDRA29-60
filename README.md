@@ -131,7 +131,7 @@
     <header class="hero-section">
         <div class="animation-bg"></div>
 
-        <h1>To My Dearest [नाम डालें],</h1>
+        <h1>To My Dearest [Mantasha],</h1>
         
         <div class="main-photo-placeholder">
             [आपकी पसंदीदा फोटो यहां अपलोड करें]
@@ -166,7 +166,7 @@
         </p>
         <p class="signature">
             हमेशा आपका,<br>
-            [आपका नाम]
+            [lakshya]
         </p>
     </footer>
 
